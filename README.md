@@ -4,11 +4,6 @@
 
 ---
 
-### 🎓 Internship Project at MaMo Technolabs LLP
-This project was developed during my professional internship time. It has been built and refined to be a production-ready billing solution.
-
----
-
 ## 🚀 Key Features
 
 - **GST-Ready Invoices**: Create professional, branded GST-ready invoices with real-time PDF generation.
