@@ -58,7 +58,7 @@ npm run dev:desktop
 ```
 
 ## 📄 License
-This project is for demonstration and production use within the specified internship scope. Developed at **MaMo Technolabs LLP**.
+This project is for demonstration and production use within the specified internship scope.
 
 ---
 
