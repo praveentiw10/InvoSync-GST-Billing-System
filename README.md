@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 Internship Project at MaMo Technolabs LLP
-This project was developed during my professional internship at [MaMo Technolabs LLP](https://mamotechnolabs.com/). It has been built and refined to be a production-ready billing solution.
+This project was developed during my professional internship time. It has been built and refined to be a production-ready billing solution.
 
 ---
 
