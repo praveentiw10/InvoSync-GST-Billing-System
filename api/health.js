@@ -1,0 +1,15 @@
+import { handleOptions, sendJson } from "./_lib/http.js";
+
+export default async function handler(request, response) {
+  if (handleOptions(request, response)) {
+    return;
+  }
+
+  if (request.method !== "GET") {
+    sendJson(response, 405, { ok: false, message: "Method not allowed." });
+    return;
+  }
+
+  sendJson(response, 200, { ok: true });
+}
+
